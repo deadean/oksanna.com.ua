@@ -70,14 +70,14 @@
                         <label for="slide5"></label>
                     </div>
                 </article>
-                                <button id="showMenu">Show Menu</button>
+                <button id="showMenu">Show Menu</button>
             </div>
         </div>
     </div>
 
     <nav class="outer-nav right vertical">
-        <a href="#" class="icon-home">Menu1</a>
-        <a href="#" class="icon-news">News</a>
+        <a href="#" class="icon-home">Главная</a>
+        <a href="pages/gallery/gallery.php" class="icon-news">Галерея</a>
     </nav>
 </div>
 
