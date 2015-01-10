@@ -76,8 +76,8 @@
     </div>
 
     <nav class="outer-nav right vertical">
-        <a href="#" class="icon-home">Главная</a>
-        <a href="pages/gallery/gallery.php" class="icon-news">Галерея</a>
+        <a href="#" class="icon-home">Р“Р»Р°РІРЅР°СЏ</a>
+        <a href="pages/gallery/gallery.php" class="icon-news">Р“Р°Р»РµСЂРµСЏ</a>
     </nav>
 </div>
 
