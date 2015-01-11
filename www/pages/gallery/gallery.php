@@ -19,8 +19,8 @@
     <script src="../../js/modernizr.custom.25376.js"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="../../css/animation/gallery/demo.css"/>
-    <link rel="stylesheet" type="text/css" href="../../css/animation/gallery/component.css"/>
+    <link rel="stylesheet" type="text/css" href="css/demo.css"/>
+    <link rel="stylesheet" type="text/css" href="css/component.css"/>
 </head>
 <body>
 
@@ -40,7 +40,7 @@
                         <li class="grid-sizer"></li>
                         <li>
                             <figure>
-                                <img src="models/1.jpg" alt="img01"/>
+                                <img src="../../images/models/1.jpg" alt="img01"/>
                                 <figcaption>
                                     <h3>Text1</h3>
                                 </figcaption>
@@ -48,7 +48,23 @@
                         </li>
                         <li>
                             <figure>
-                                <img src="models/6.jpg" alt="img02"/>
+                                <img src="../../images/models/6.jpg" alt="img02"/>
+                                <figcaption>
+                                    <h3>Text1</h3>
+                                </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="img/thumb/1.png" alt="img01"/>
+                                <figcaption>
+                                    <h3>Text1</h3>
+                                </figcaption>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure>
+                                <img src="img/thumb/2.png" alt="img02"/>
                                 <figcaption>
                                     <h3>Text1</h3>
                                 </figcaption>
@@ -62,16 +78,24 @@
                     <ul>
                         <li class="verticalPhoto">
                             <figure>
-                                <div>
-                                    <img src="models/1.jpg" alt="img01"/>
-                                </div>
+                                    <img src="../../images/models/1.jpg" alt="img01"/>
+<!--                                    <img src="img/large/1.png" alt="img01"/>-->
                             </figure>
                         </li>
                         <li class="horizontalPhoto">
                             <figure>
-                                <div>
-                                    <img src="models/6.jpg" alt="img02"/>
-                                </div>
+<!--                                    <img src="img/large/1.png" alt="img01"/>-->
+                                                                        <img src="../../images/models/6.jpg" alt="img02"/>
+                            </figure>
+                        </li>
+                        <li class="verticalPhoto">
+                            <figure>
+                                    <img src="img/large/1.png" alt="img01"/>
+                            </figure>
+                        </li>
+                        <li class="horizontalPhoto">
+                            <figure>
+                                    <img src="img/large/2.png" alt="img02"/>
                             </figure>
                         </li>
                     </ul>
