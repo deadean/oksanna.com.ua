@@ -15,12 +15,13 @@ html, body, .perspective {
 }
 
 .perspective {
-	background: #aaa;
+	/*background: #aaa;*/
 	position: relative;
 }
 
 .container {
-    background: url('../images/background/background.png') repeat;
+    background: url('../images/background/background1.png') repeat;
+    /*background: #ffdccd;*/
 	min-height: 100%;
 	position: relative;
 	outline: 1px solid rgba(0,0,0,0);
@@ -238,7 +239,7 @@ html, body, .perspective {
 
 /* Effect Move Left */
 .effect-moveleft {
-	background: #f4f3f1;
+	/*background: #f4f3f1;*/
 }
 
 .effect-moveleft .container {
@@ -312,7 +313,7 @@ html, body, .perspective {
 
 /* Effect Rotate Left */
 .effect-rotateleft {
-	background: #a9a9a9;
+	/*background: #a9a9a9;*/
 }
 
 .effect-rotateleft .container {

@@ -13,12 +13,20 @@
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
 body {
-	background: #ddd;
+	/*background: #ffdccd;*/
+    background: url('../images/background/background1.jpg');
+    background-size: 100% 100%;
 	color: #5a5350;
 	font-weight: 300;
 	font-family: 'Lato', Calibri, Arial, sans-serif;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 	overflow-y: scroll;
 	overflow-x: hidden;
+}
+
+.mainMenu{
+
 }
 
 a {
@@ -50,7 +58,7 @@ a:hover, a:focus {
 
 .codrops-header {
 	margin: 0 auto 3em;
-	padding: 3em;
+	/*padding: 3em;*/
 	text-align: center;
 }
 

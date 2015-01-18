@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="css/demo.css"/>
     <link rel="stylesheet" type="text/css" href="css/component.css"/>
     <link rel="stylesheet" type="text/css" href="css/common/common.css"/>
+    <link rel="stylesheet" type="text/css" href="css/header/style.css"/>
 
     <link rel="stylesheet" type="text/css" href="css/animation/mainPage/normalize1.css">
     <link rel="stylesheet" type="text/css" href="css/animation/mainPage/style1.css" media="screen"/>
@@ -28,9 +29,12 @@
     <div class="container">
         <div class="wrapper">
             <header class="codrops-header">
+                <div class="logo">
+                    <img src="images/logos/logo.png"/>
+                </div>
             </header>
 
-            <div class="main clearfix">
+            <div class="main clearfix border">
 
                 <article id="slider">
                     <input id="slide1" type="radio" name="slider" selected="false"/>
@@ -39,21 +43,26 @@
                     <input id="slide4" type="radio" name="slider" selected="false"/>
                     <input id="slide5" type="radio" name="slider" selected="false"/>
 
+
+
                     <div id="slides" >
                         <div id="overflow">
                             <div class="inner">
-                                <article><img src="http://csscience.com/responsiveslidercss3/CouldDragonByBjzaba.png"/>
+                                <article><img src="images/models_small/6.jpg"/>
                                 </article>
-                                <article><img src="http://csscience.com/responsiveslidercss3/CouldDragonByBjzaba.png"/>
+                                <article><img src="images/models_small/6.jpg"/>
                                 </article>
-                                <article><img src="http://csscience.com/responsiveslidercss3/CouldDragonByBjzaba.png"/>
+                                <article><img src="images/models_small/6.jpg"/>
                                 </article>
-                                <article><img src="http://csscience.com/responsiveslidercss3/CouldDragonByBjzaba.png"/>
+                                <article><img src="images/models_small/6.jpg"/>
                                 </article>
-                                <article><img src="http://csscience.com/responsiveslidercss3/CouldDragonByBjzaba.png"/>
+                                <article><img src="images/models_small/6.jpg"/>
                                 </article>
                             </div>
                         </div>
+                    </div>
+                    <div>
+                        <button id="showMenu">Show Menu</button>
                     </div>
                     <div id="controls">
                         <label for="slide1"></label>
@@ -69,8 +78,9 @@
                         <label for="slide4"></label>
                         <label for="slide5"></label>
                     </div>
+
                 </article>
-                <button id="showMenu">Show Menu</button>
+
             </div>
         </div>
     </div>
