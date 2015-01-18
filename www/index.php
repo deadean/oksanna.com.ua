@@ -28,59 +28,17 @@
 <div id="perspective" class="perspective effect-rotateleft">
     <div class="container">
         <div class="wrapper">
-            <header class="codrops-header">
+            <div class="columnMain columnMainL ">
                 <div class="logo">
                     <img src="images/logos/logo.png"/>
                 </div>
-            </header>
-
-            <div class="main clearfix border">
-
-                <article id="slider">
-                    <input id="slide1" type="radio" name="slider" selected="false"/>
-                    <input id="slide2" type="radio" name="slider" selected="false"/>
-                    <input id="slide3" type="radio" name="slider" selected="false"/>
-                    <input id="slide4" type="radio" name="slider" selected="false"/>
-                    <input id="slide5" type="radio" name="slider" selected="false"/>
-
-
-
-                    <div id="slides" >
-                        <div id="overflow">
-                            <div class="inner">
-                                <article><img src="images/models_small/6.jpg"/>
-                                </article>
-                                <article><img src="images/models_small/6.jpg"/>
-                                </article>
-                                <article><img src="images/models_small/6.jpg"/>
-                                </article>
-                                <article><img src="images/models_small/6.jpg"/>
-                                </article>
-                                <article><img src="images/models_small/6.jpg"/>
-                                </article>
-                            </div>
-                        </div>
-                    </div>
-                    <div>
-                        <button id="showMenu">Show Menu</button>
-                    </div>
-                    <div id="controls">
-                        <label for="slide1"></label>
-                        <label for="slide2"></label>
-                        <label for="slide3"></label>
-                        <label for="slide4"></label>
-                        <label for="slide5"></label>
-                    </div>
-                    <div id="active">
-                        <label for="slide1"></label>
-                        <label for="slide2"></label>
-                        <label for="slide3"></label>
-                        <label for="slide4"></label>
-                        <label for="slide5"></label>
-                    </div>
-
-                </article>
-
+                <div class="menuButtonDiv"><button id="showMenu" class="menuButton">Меню</button></div>
+                <div class="slogan">
+                    <img src="images/logos/slogan.png"/>
+                </div>
+            </div>
+            <div class="columnMain  columnMainR">
+                <?php include('pages/gallery/gallery.html'); ?>
             </div>
         </div>
     </div>

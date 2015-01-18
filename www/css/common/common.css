@@ -5,3 +5,15 @@ body{
 .border{
     border: solid red 1px !important;
 }
+
+.menuButton{
+    background: #b8b6b4;
+}
+
+.menuButtonDiv{
+    position: relative;
+    float: left;
+    left: 20%;
+    margin-bottom: 15%;
+    margin-top: 10%;
+}
