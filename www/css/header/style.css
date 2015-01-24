@@ -3,6 +3,11 @@
     left:10%;
     position: relative;
 }
+.logo1{
+    width:100%;
+    float: left;
+    position: relative;
+}
 .logo img{
     width: 100%;
 }
