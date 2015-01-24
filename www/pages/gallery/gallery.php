@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="../../css/demo.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/component.css"/>
     <link rel="stylesheet" type="text/css" href="../../css/common/common.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/header/style.css"/>
 
     <script src="../../js/modernizr.custom.25376.js"></script>
     <script src="http://thecodeplayer.com/uploads/js/prefixfree.js" type="text/javascript"></script>
@@ -62,10 +63,10 @@
 
                     //Finally the code to fade out the glass if the mouse is outside the container
                     if (mx < $(this).width() && my < $(this).height() && mx > 0 && my > 0) {
-                        $(".large").fadeIn(100);
+                        $(".large").fadeIn(50);
                     }
                     else {
-                        $(".large").fadeOut(100);
+                        $(".large").fadeOut(50);
                     }
                     if ($(".large").is(":visible")) {
                         //The background position of .large will be changed according to the position
@@ -90,7 +91,6 @@
             })
         })
     </script>
-
 
 </head>
 
@@ -135,113 +135,32 @@
 
 <div id="perspective" class="perspective effect-rotateleft">
     <div class="container">
-
         <div class="wrapper">
-            <header class="clearfix">
-                <div>
-
+            <div class="columnMain columnMainL ">
+                <div class="logo">
+                    <img src="../../images/logos/logo.png"/>
                 </div>
-            </header>
-            <button class="category">Атлас</button>
-            <button class="category">Шифон</button>
-            <button class="category">Трикотаж (кружево)</button>
-            <button class="category">Трикотаж (цвет)</button>
-            <button class="category">Пляж</button>
-            <button class="category">Майки</button>
-            <button class="category">Комбидресс</button>
-            <div id="grid-gallery" class="grid-gallery">
-
-                <section class="grid-wrap">
-                    <ul class="grid">
-                        <li class="grid-sizer"></li>
-                        <li>
-                            <figure>
-                                <img src="../../images/models_small/1_500x750.jpg" alt="img01"/>
-                                <figcaption>
-                                    <h3>Text1</h3>
-                                </figcaption>
-                            </figure>
-                        </li>
-                        <li>
-                            <figure>
-                                <img src="../../images/models_small/6.jpg" alt="img02"/>
-                                <figcaption>
-                                    <h3>Text1</h3>
-                                </figcaption>
-                            </figure>
-                        </li>
-                        <li>
-                            <figure>
-                                <img src="img/thumb/1.png" alt="img01"/>
-                                <figcaption>
-                                    <h3>Text1</h3>
-                                </figcaption>
-                            </figure>
-                        </li>
-                        <li>
-                            <figure>
-                                <img src="img/thumb/2.png" alt="img02"/>
-                                <figcaption>
-                                    <h3>Text1</h3>
-                                </figcaption>
-                            </figure>
-                        </li>
-
-                    </ul>
-                </section>
-
-                <section class="slideshow">
-                    <ul>
-                        <li class="verticalPhoto">
-
-
-                            <figure class="magnify">
-<!--                                <div class="">-->
-                                    <div class="large"></div>
-                                    <img class="small" src="../../images/models/1.jpg" alt="img01"/>
-<!--                                </div>-->
-                            </figure>
-
-                        </li>
-                        <li class="horizontalPhoto">
-                            <figure>
-                                <img src="../../images/models/6.jpg" alt="img02"/>
-                            </figure>
-                        </li>
-                        <li class="verticalPhoto">
-                            <figure>
-                                <img src="img/large/1.png" alt="img01"/>
-                            </figure>
-                        </li>
-                        <li class="horizontalPhoto">
-                            <figure>
-                                <img src="img/large/2.png" alt="img02"/>
-                            </figure>
-                        </li>
-                    </ul>
-                    <nav>
-                        <span class="icon nav-prev"></span>
-                        <span class="icon nav-next"></span>
-                        <span class="icon nav-close"></span>
-                    </nav>
-                </section>
-
+                <div class="menuButtonDiv"><button id="showMenu" class="menuButton">Меню</button></div>
             </div>
-
-
-
-
-
+            <div class="columnMain  columnMainR ">
+                <div>
+                    <button class="category">Атлас</button>
+                    <button class="category">Шифон</button>
+                    <button class="category">Трикотаж (кружево)</button>
+                    <button class="category">Трикотаж (цвет)</button>
+                    <button class="category">Пляж</button>
+                    <button class="category">Майки</button>
+                    <button class="category">Комбидресс</button>
+                </div>
+                <?php include('gallerymodels.html'); ?>
+            </div>
         </div>
-
-        <button id="showMenu">Show Menu</button>
     </div>
 
     <nav class="outer-nav right vertical">
         <a href="../../index.php" class="icon-home">Главная</a>
         <a href="#" class="icon-news">Галерея</a>
     </nav>
-
 </div>
 
 <script src="../../js/gallery/imagesloaded.pkgd.min.js"></script>
