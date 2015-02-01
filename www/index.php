@@ -43,9 +43,11 @@
         </div>
     </div>
 
-    <nav class="outer-nav right vertical">
+    <nav class="outer-nav right vertical textMenu">
         <a href="#" class="icon-home">Главная</a>
-        <a href="pages/gallery/gallery.php" class="icon-news">Галерея</a>
+        <a href="#" class="icon-news">О нас</a>
+        <a href="pages/gallery/atlas.php" class="icon-image">Галерея</a>
+        <a href="#" class="icon-mail">Контакты</a>
     </nav>
 </div>
 
