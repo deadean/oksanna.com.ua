@@ -18,3 +18,15 @@ body{
     margin-bottom: 15%;
     margin-top: 10%;
 }
+
+.columnMain p{
+    margin: 2% 5% 2% 5%;
+    text-align: left;
+    text-indent: 4%;
+}
+
+.columnMain h1{
+    margin: 10% 5% 2% 5%;
+    text-align: left;
+
+}

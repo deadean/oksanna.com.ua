@@ -155,7 +155,7 @@
                 <button class="category">Комбидресс</button>
             </div>
 
-            <?php include('gallerymodels.html'); ?>
+            <?php include('gallerymodels_pljazh.html'); ?>
 
 <!--            <div class="columnMain columnMainL ">-->
 <!--                <div class="logo">-->

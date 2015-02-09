@@ -155,7 +155,7 @@
                 <a href="kombidress.php"><button class="category">Комбидресс</button></a>
             </div>
 
-            <?php include('gallerymodels.html'); ?>
+            <?php include('gallerymodels_pljazh.html'); ?>
 
 <!--            <div class="columnMain columnMainL ">-->
 <!--                <div class="logo">-->
@@ -178,9 +178,11 @@
         </div>
     </div>
 
-    <nav class="outer-nav right vertical">
-        <a href="../../index.php" class="icon-home">Главная</a>
-        <a href="#" class="icon-news">Галерея</a>
+    <nav class="outer-nav right vertical textMenu">
+        <a href="index.php" class="icon-home">Главная</a>
+        <a href="aboutus.php" class="icon-news">О нас</a>
+        <a href="pages/gallery/atlas.php" class="icon-image">Галерея</a>
+        <a href="contacts.php" class="icon-mail">Контакты</a>
     </nav>
 </div>
 

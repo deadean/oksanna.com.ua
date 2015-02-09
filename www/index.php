@@ -30,7 +30,7 @@
         <div class="wrapper">
             <div class="columnMain columnMainL ">
                 <div class="logo">
-                    <img src="images/logos/logo.png"/>
+                    <a href="index.php"><img src="images/logos/logo.png"/></a>
                 </div>
                 <div class="menuButtonDiv"><button id="showMenu" class="menuButton">Меню</button></div>
                 <div class="slogan">
@@ -44,10 +44,10 @@
     </div>
 
     <nav class="outer-nav right vertical textMenu">
-        <a href="#" class="icon-home">Главная</a>
-        <a href="#" class="icon-news">О нас</a>
+        <a href="index.php" class="icon-home">Главная</a>
+        <a href="aboutus.php" class="icon-news">О нас</a>
         <a href="pages/gallery/atlas.php" class="icon-image">Галерея</a>
-        <a href="#" class="icon-mail">Контакты</a>
+        <a href="contacts.php" class="icon-mail">Контакты</a>
     </nav>
 </div>
 
