@@ -45,9 +45,9 @@
 
     <nav class="outer-nav right vertical textMenu">
         <a href="index.php" class="icon-home">Главная</a>
-        <a href="aboutus.php" class="icon-news">О нас</a>
+        <a href="pages/aboutus/aboutus.php" class="icon-news">О нас</a>
         <a href="pages/gallery/atlas.php" class="icon-image">Галерея</a>
-        <a href="contacts.php" class="icon-mail">Контакты</a>
+        <a href="pages/contacts/contacts.php" class="icon-mail">Контакты</a>
     </nav>
 </div>
 
