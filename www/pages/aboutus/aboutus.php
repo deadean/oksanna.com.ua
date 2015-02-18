@@ -30,7 +30,7 @@
         <div class="wrapper">
             <div class="columnMain columnMainL ">
                 <div class="logo">
-                    <a href="index.php"><img src="../../images/logos/logo.png"/></a>
+                    <a href="../../index.php"><img src="../../images/logos/logo.png"/></a>
                 </div>
                 <div class="menuButtonDiv"><button id="showMenu" class="menuButton">Меню</button></div>
                 <div class="slogan">

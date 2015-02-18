@@ -134,7 +134,7 @@ html, body, .perspective {
 }
 
 .outer-nav a:hover {
-	color: #ffdccd;
+	color: black;
 }
 
 .outer-nav.vertical a {
