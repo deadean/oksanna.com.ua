@@ -27,21 +27,35 @@
 
 <div id="perspective" class="perspective effect-rotateleft">
     <div class="container">
+
+        <div class="menu-outer" id="showMenu" >
+            <div class="menu-icon" >
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+        </div>
+
         <div class="wrapper">
             <div class="columnMain columnMainL ">
+
                 <div class="logo">
                     <a href="index.php"><img src="images/logos/logo.png"/></a>
                 </div>
-                <div class="menuButtonDiv"><button id="showMenu" class="menuButton">Меню</button></div>
+
                 <div class="slogan">
                     <img src="images/logos/slogan.png"/>
                 </div>
+
+
             </div>
             <div class="columnMain  columnMainR">
                 <?php include('pages/gallery/gallery.html'); ?>
             </div>
         </div>
     </div>
+
+
 
     <nav class="outer-nav right vertical textMenu">
         <a href="index.php" class="icon-home">Главная</a>

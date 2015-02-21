@@ -137,13 +137,14 @@
 
 <div id="perspective" class="perspective effect-rotateleft">
     <div class="container">
-        <div class="wrapper">
-
-            <div class="columnMain" style="width: 15%; text-align: center">
-                <div class="logo1">
-                    <button id="showMenu" class="menuButton">Меню</button>
-                </div>
+        <div class="menu-outer" id="showMenu" >
+            <div class="menu-icon" >
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
             </div>
+        </div>
+        <div class="wrapper">
 
             <div>
                 <a href="atlas.php"><button class="category">Атлас</button></a>
@@ -157,24 +158,6 @@
 
             <?php include('gallerymodels_pljazh.html'); ?>
 
-<!--            <div class="columnMain columnMainL ">-->
-<!--                <div class="logo">-->
-<!--                    <img src="../../images/logos/logo.png"/>-->
-<!--                </div>-->
-<!--                <div class="menuButtonDiv"><button id="showMenu" class="menuButton">Меню</button></div>-->
-<!--            </div>-->
-<!--            <div class="columnMain  columnMainR ">-->
-<!--                <div>-->
-<!--                    <button class="category">Атлас</button>-->
-<!--                    <button class="category">Шифон</button>-->
-<!--                    <button class="category">Трикотаж (кружево)</button>-->
-<!--                    <button class="category">Трикотаж (цвет)</button>-->
-<!--                    <button class="category">Пляж</button>-->
-<!--                    <button class="category">Майки</button>-->
-<!--                    <button class="category">Комбидресс</button>-->
-<!--                </div>-->
-<!--                -->
-<!--            </div>-->
         </div>
     </div>
 

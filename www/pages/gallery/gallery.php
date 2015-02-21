@@ -137,13 +137,14 @@
 
 <div id="perspective" class="perspective effect-rotateleft">
     <div class="container">
-        <div class="wrapper">
-
-            <div class="columnMain" style="width: 15%; text-align: center">
-                <div class="logo1">
-                    <button id="showMenu" class="menuButton">Меню</button>
-                </div>
+        <div class="menu-outer" id="showMenu" >
+            <div class="menu-icon" >
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
             </div>
+        </div>
+        <div class="wrapper">
 
             <div>
                 <button class="category">Атлас</button>
