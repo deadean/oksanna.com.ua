@@ -28,6 +28,7 @@
 .grid-gallery figcaption h3 {
 	margin: 0;
 	padding: 0 0 0.5em;
+    font-size: 95%;
 }
 
 .grid-gallery figcaption p {
@@ -40,6 +41,8 @@
 	margin: 0 auto;
 	padding: 0 1em 1.875em;
 }
+
+
 
 .grid {
 	margin: 0 auto;
@@ -72,7 +75,8 @@
 
 .grid figcaption {
 	background: #e4e4e4;
-	padding: 25px;
+	padding: 0px;
+    /*height: 35px;*/
 }
 
 /* Slideshow style */

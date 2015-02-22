@@ -86,7 +86,7 @@ html, body, .perspective {
 	position: absolute;
 	height: auto;
 	font-size: 2em;
-    z-index: 999;
+    /*z-index: 999;*/
 }
 
 .outer-nav.vertical {
@@ -206,7 +206,7 @@ html, body, .perspective {
 	transition: transform 0.4s, opacity 0.4s;
 }
 
-.effect-airbnb.animate .outer-nav a {
+.effect-airbnb.animate .ou mj ter-nav a {
 	opacity: 1;
 	-webkit-transform: translateX(0);
 	transform: translateX(0);
@@ -684,9 +684,11 @@ html, body, .perspective {
     z-index: 997;
     width: 100%;
     left: 100%;
-    margin-left: -100px;
+    margin-left: -95px;
     height: 200%;
-    background: rgba(100,200,240,.9);
+    background: #ed8151;
+    opacity: 0.7;
+    /*background: rgba(100,200,240,.9);*/
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     -ms-transition: all ease .5s;
@@ -704,7 +706,12 @@ html, body, .perspective {
     transform: rotate(-45deg);
     cursor: pointer;
 }
-
+.menu-outer:hover{
+    opacity: 1;
+}
+.menu-outer:hover .menu-icon .bar{
+    background: #e4e4e4;
+}
 .menu-icon {
     z-index: 998;
     position: absolute;

@@ -55,6 +55,8 @@
 			classie.add( perspectiveWrapper, 'modalview' );
 			// animate..
 			setTimeout( function() { classie.add( perspectiveWrapper, 'animate' ); }, 25 );
+            var result = document.querySelector('.menu-outer');
+            result.style.display = "none";
 		});
 
 		container.addEventListener( clickevent, function( ev ) {
@@ -67,6 +69,8 @@
 					document.body.scrollTop = document.documentElement.scrollTop = docscroll;
 					// change top of contentWrapper
 					contentWrapper.style.top = '0px';
+                    var result = document.querySelector('.menu-outer');
+                    result.style.display = "block";
 				};
 				if( support ) {
 					perspectiveWrapper.addEventListener( transEndEventName, onEndTransFn );
