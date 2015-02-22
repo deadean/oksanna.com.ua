@@ -740,3 +740,12 @@ html, body, .perspective {
     -o-transition: all ease .5s;
     transition: all ease .5s;
 }
+
+
+
+
+.galleryButtons{
+    position: relative;
+    left: 4.2%;
+    width: 85%;
+}

@@ -149,6 +149,9 @@
 
 		classie.addClass( this.el, 'slideshow-open' );
 
+        var result = document.querySelector('.menu-outer');
+        result.style.display = "none";
+
 		/* position slideshow items */
 
 		// set viewport items (current, next and previous)
@@ -283,6 +286,9 @@
 		classie.removeClass( this.el, 'slideshow-open' );
 		// remove class animatable from the slideshow grid
 		classie.removeClass( this.slideshow, 'animatable' );
+
+        var result = document.querySelector('.menu-outer');
+        result.style.display = "block";
 
 		var self = this,
 			onEndTransitionFn = function( ev ) {

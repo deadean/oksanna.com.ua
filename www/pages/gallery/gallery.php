@@ -146,7 +146,7 @@
         </div>
         <div class="wrapper">
 
-            <div>
+            <div class="galleryButtons">
                 <button class="category">Атлас</button>
                 <button class="category">Шифон</button>
                 <button class="category">Трикотаж (кружево)</button>

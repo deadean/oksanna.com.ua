@@ -96,43 +96,7 @@
 
 </head>
 
-<style>
-    /*Some CSS*/
-    * {
-        margin: 0;
-        padding: 0;
-    }
 
-    .magnify {
-        width: 200px;
-        margin: 10px auto;
-        position: relative;
-    }
-
-    /*Lets create the magnifying glass*/
-    .large {
-        width: 350px;
-        height: 350px;
-        position: absolute;
-        border-radius: 100%;
-
-        /*Multiple box shadows to achieve the glass effect*/
-        box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.85),
-        0 0 7px 7px rgba(0, 0, 0, 0.25),
-        inset 0 0 40px 2px rgba(0, 0, 0, 0.25);
-
-        /*Lets load up the large image first*/
-        background: url('../../images/models/1.jpg') no-repeat;
-
-        /*hide the glass by default*/
-        display: none;
-    }
-
-    /*To solve overlap bug at the edges during magnification*/
-    .small {
-        display: block;
-    }
-</style>
 <body>
 
 <div id="perspective" class="perspective effect-rotateleft">
@@ -146,7 +110,7 @@
         </div>
         <div class="wrapper">
 
-            <div>
+            <div class="galleryButtons">
                 <a href="#"><button class="category">Атлас</button></a>
                 <a href="shifon.php"><button class="category">Шифон</button></a>
                 <a href="trikotazhskruzhevom.php"><button class="category">Трикотаж (кружево)</button></a>

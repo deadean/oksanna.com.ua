@@ -146,7 +146,7 @@
         </div>
         <div class="wrapper">
 
-            <div>
+            <div class="galleryButtons">
                 <a href="atlas.php"><button class="category">Атлас</button></a>
                 <a href="#"><button class="category">Шифон</button></a>
                 <a href="trikotazhskruzhevom.php"><button class="category">Трикотаж (кружево)</button></a>

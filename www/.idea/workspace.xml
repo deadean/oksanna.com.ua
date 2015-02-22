@@ -35,54 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallerymodels_atlas.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/gallery/gallerymodels_atlas.html">
+      <file leaf-file-name="trikotazhzvetnoi.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/gallery/trikotazhzvetnoi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7607573" vertical-offset="0" max-vertical-offset="10234">
-              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/gallery/css/component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.857142" vertical-offset="920" max-vertical-offset="3842">
-              <caret line="78" column="19" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="19" />
-              <folding>
-                <element signature="e#1158#1239#0" expanded="false" />
-                <element signature="e#1263#1281#0" expanded="false" />
-                <element signature="e#1397#1718#0" expanded="false" />
-                <element signature="e#1745#1826#0" expanded="false" />
-                <element signature="e#1842#1929#0" expanded="false" />
-                <element signature="e#1958#2058#0" expanded="false" />
-                <element signature="e#2074#2330#0" expanded="false" />
-                <element signature="e#2469#2544#0" expanded="false" />
-                <element signature="e#2560#2660#0" expanded="false" />
-                <element signature="e#2681#2706#0" expanded="false" />
-                <element signature="e#2728#2912#0" expanded="false" />
-                <element signature="e#2942#3081#0" expanded="false" />
-                <element signature="e#3101#3197#0" expanded="false" />
-                <element signature="e#3221#3247#0" expanded="false" />
-                <element signature="e#3274#3314#0" expanded="false" />
-                <element signature="e#4200#4382#0" expanded="false" />
-                <element signature="e#4420#4566#0" expanded="false" />
-                <element signature="e#4586#4621#0" expanded="false" />
-                <element signature="e#4640#4676#0" expanded="false" />
-                <element signature="e#5209#5251#0" expanded="false" />
-                <element signature="e#5265#5286#0" expanded="false" />
-                <element signature="e#5306#5341#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.892857" vertical-offset="9990" max-vertical-offset="12716">
-              <caret line="599" column="39" selection-start-line="599" selection-start-column="37" selection-end-line="599" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.46299484" vertical-offset="2247" max-vertical-offset="3213">
+              <caret line="148" column="39" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -115,21 +72,22 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/pages/aboutus/aboutus.php" />
         <option value="$PROJECT_DIR$/pages/contacts/contacts.php" />
+        <option value="$PROJECT_DIR$/css/header/style.css" />
+        <option value="$PROJECT_DIR$/pages/gallery/gallerymodels_shifon.html" />
+        <option value="$PROJECT_DIR$/css/animation/mainPage/style1.css" />
+        <option value="$PROJECT_DIR$/js/menu.js" />
+        <option value="$PROJECT_DIR$/pages/gallery/gallerymodels_atlas.html" />
+        <option value="$PROJECT_DIR$/css/component.css" />
         <option value="$PROJECT_DIR$/pages/gallery/atlas.php" />
+        <option value="$PROJECT_DIR$/pages/gallery/css/component.css" />
+        <option value="$PROJECT_DIR$/js/gallery/cbpGridGallery.js" />
+        <option value="$PROJECT_DIR$/pages/gallery/shifon.php" />
         <option value="$PROJECT_DIR$/pages/gallery/gallery.php" />
         <option value="$PROJECT_DIR$/pages/gallery/kombidress.php" />
         <option value="$PROJECT_DIR$/pages/gallery/majki.php" />
         <option value="$PROJECT_DIR$/pages/gallery/pljazh.php" />
-        <option value="$PROJECT_DIR$/pages/gallery/shifon.php" />
         <option value="$PROJECT_DIR$/pages/gallery/trikotazhskruzhevom.php" />
         <option value="$PROJECT_DIR$/pages/gallery/trikotazhzvetnoi.php" />
-        <option value="$PROJECT_DIR$/css/header/style.css" />
-        <option value="$PROJECT_DIR$/pages/gallery/gallerymodels_shifon.html" />
-        <option value="$PROJECT_DIR$/css/animation/mainPage/style1.css" />
-        <option value="$PROJECT_DIR$/css/component.css" />
-        <option value="$PROJECT_DIR$/js/menu.js" />
-        <option value="$PROJECT_DIR$/pages/gallery/css/component.css" />
-        <option value="$PROJECT_DIR$/pages/gallery/gallerymodels_atlas.html" />
       </list>
     </option>
   </component>
@@ -333,9 +291,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30087847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3001464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -381,14 +339,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/gallery/gallerymodels_shifon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6409">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1632">
@@ -528,13 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/animation/gallery/component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5041186" vertical-offset="1836" max-vertical-offset="4981">
-          <caret line="128" column="15" selection-start-line="128" selection-start-column="15" selection-end-line="128" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/template/theme/123/static/static-social-networks.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11971831" vertical-offset="0" max-vertical-offset="568">
@@ -592,6 +535,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9070568" vertical-offset="2057" max-vertical-offset="6290">
           <caret line="152" column="72" selection-start-line="152" selection-start-column="72" selection-end-line="152" selection-end-column="72" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -599,6 +543,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.58003443" vertical-offset="751" max-vertical-offset="2686">
           <caret line="64" column="49" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -606,6 +551,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7969019" vertical-offset="1033" max-vertical-offset="4913">
           <caret line="88" column="49" selection-start-line="88" selection-start-column="49" selection-end-line="88" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,6 +567,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.576923" vertical-offset="578" max-vertical-offset="1292">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -632,90 +579,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/trikotazhzvetnoi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17741935" vertical-offset="2247" max-vertical-offset="3213">
-          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/trikotazhskruzhevom.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7311828" vertical-offset="2108" max-vertical-offset="3519">
-          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/pljazh.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8192771" vertical-offset="2040" max-vertical-offset="3213">
-          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/majki.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32185885" vertical-offset="2329" max-vertical-offset="3213">
-          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/kombidress.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.90189326" vertical-offset="1992" max-vertical-offset="3213">
-          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/gallery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38037866" vertical-offset="2295" max-vertical-offset="3485">
-          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/atlas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37521514" vertical-offset="2298" max-vertical-offset="3213">
-          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/contacts/contacts.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68716097" vertical-offset="317" max-vertical-offset="1343">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/shifon.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1649" max-vertical-offset="3213">
-          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/gallerymodels_shifon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075" vertical-offset="2652" max-vertical-offset="6409">
-          <caret line="167" column="24" selection-start-line="167" selection-start-column="24" selection-end-line="167" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27946126" vertical-offset="820" max-vertical-offset="1615">
-          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -736,6 +603,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.857143" vertical-offset="12188" max-vertical-offset="12852">
+          <caret line="748" column="13" selection-start-line="748" selection-start-column="13" selection-end-line="748" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animation/gallery/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1285" max-vertical-offset="5389">
+          <caret line="91" column="29" selection-start-line="91" selection-start-column="29" selection-end-line="91" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/gallery/cbpGridGallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.427256" vertical-offset="2352" max-vertical-offset="6375">
+          <caret line="152" column="38" selection-start-line="152" selection-start-column="38" selection-end-line="152" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.89686924" vertical-offset="499" max-vertical-offset="1615">
+          <caret line="58" column="42" selection-start-line="57" selection-start-column="12" selection-end-line="58" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/gallerymodels_atlas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="10234">
+          <caret line="0" column="44" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/gallerymodels_shifon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="2652" max-vertical-offset="6409">
+          <caret line="167" column="24" selection-start-line="167" selection-start-column="24" selection-end-line="167" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/atlas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42685026" vertical-offset="1656" max-vertical-offset="2601">
+          <caret line="112" column="39" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/shifon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30981067" vertical-offset="2336" max-vertical-offset="3213">
+          <caret line="148" column="40" selection-start-line="148" selection-start-column="40" selection-end-line="148" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/css/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7759473" vertical-offset="3949" max-vertical-offset="4556">
+          <caret line="334" column="10" selection-start-line="334" selection-start-column="10" selection-end-line="334" selection-end-column="10" />
+          <folding>
+            <element signature="e#1763#1844#0" expanded="false" />
+            <element signature="e#1860#1947#0" expanded="false" />
+            <element signature="e#1976#2076#0" expanded="false" />
+            <element signature="e#2092#2348#0" expanded="false" />
+            <element signature="e#2487#2562#0" expanded="false" />
+            <element signature="e#2746#2930#0" expanded="false" />
+            <element signature="e#3239#3265#0" expanded="false" />
+            <element signature="e#3292#3332#0" expanded="false" />
+            <element signature="e#4218#4400#0" expanded="false" />
+            <element signature="e#4438#4584#0" expanded="false" />
+            <element signature="e#4604#4639#0" expanded="false" />
+            <element signature="e#4658#4694#0" expanded="false" />
+            <element signature="e#5227#5269#0" expanded="false" />
+            <element signature="e#5283#5304#0" expanded="false" />
+            <element signature="e#5324#5359#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38037866" vertical-offset="2295" max-vertical-offset="3485">
+          <caret line="148" column="39" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/kombidress.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7555938" vertical-offset="1992" max-vertical-offset="3213">
+          <caret line="143" column="39" selection-start-line="143" selection-start-column="39" selection-end-line="143" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/majki.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32185885" vertical-offset="2329" max-vertical-offset="3213">
+          <caret line="148" column="39" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/pljazh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8192771" vertical-offset="2040" max-vertical-offset="3213">
+          <caret line="148" column="39" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/gallery/trikotazhskruzhevom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70223755" vertical-offset="2108" max-vertical-offset="3519">
+          <caret line="148" column="39" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.653846" vertical-offset="421" max-vertical-offset="1360">
@@ -744,49 +741,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/component.css">
+    <entry file="file://$PROJECT_DIR$/pages/gallery/trikotazhzvetnoi.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.892857" vertical-offset="9990" max-vertical-offset="12716">
-          <caret line="599" column="39" selection-start-line="599" selection-start-column="37" selection-end-line="599" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/css/component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.857142" vertical-offset="920" max-vertical-offset="3842">
-          <caret line="78" column="19" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="19" />
-          <folding>
-            <element signature="e#1158#1239#0" expanded="false" />
-            <element signature="e#1263#1281#0" expanded="false" />
-            <element signature="e#1397#1718#0" expanded="false" />
-            <element signature="e#1745#1826#0" expanded="false" />
-            <element signature="e#1842#1929#0" expanded="false" />
-            <element signature="e#1958#2058#0" expanded="false" />
-            <element signature="e#2074#2330#0" expanded="false" />
-            <element signature="e#2469#2544#0" expanded="false" />
-            <element signature="e#2560#2660#0" expanded="false" />
-            <element signature="e#2681#2706#0" expanded="false" />
-            <element signature="e#2728#2912#0" expanded="false" />
-            <element signature="e#2942#3081#0" expanded="false" />
-            <element signature="e#3101#3197#0" expanded="false" />
-            <element signature="e#3221#3247#0" expanded="false" />
-            <element signature="e#3274#3314#0" expanded="false" />
-            <element signature="e#4200#4382#0" expanded="false" />
-            <element signature="e#4420#4566#0" expanded="false" />
-            <element signature="e#4586#4621#0" expanded="false" />
-            <element signature="e#4640#4676#0" expanded="false" />
-            <element signature="e#5209#5251#0" expanded="false" />
-            <element signature="e#5265#5286#0" expanded="false" />
-            <element signature="e#5306#5341#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gallery/gallerymodels_atlas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7607573" vertical-offset="0" max-vertical-offset="10234">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.46299484" vertical-offset="2247" max-vertical-offset="3213">
+          <caret line="148" column="39" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="39" />
           <folding />
         </state>
       </provider>
