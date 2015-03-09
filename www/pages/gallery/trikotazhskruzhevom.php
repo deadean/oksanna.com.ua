@@ -156,7 +156,7 @@
                 <a href="kombidress.php"><button class="category">Комбидресс</button></a>
             </div>
 
-            <?php include('gallerymodels_pljazh.html'); ?>
+            <?php include('gallerymodels_trikotazhskruzhevom.html'); ?>
 
 <!--            <div class="columnMain columnMainL ">-->
 <!--                <div class="logo">-->

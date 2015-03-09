@@ -29,6 +29,9 @@
 	margin: 0;
 	padding: 0 0 0.5em;
     font-size: 95%;
+    text-align: center;
+    font-size: 1.1em;
+    color: #333333;
 }
 
 .grid-gallery figcaption p {
@@ -75,7 +78,7 @@
 }
 
 .grid figcaption {
-	background: #e4e4e4;
+	/*background: #e4e4e4;*/
 	padding: 0px;
     /*height: 35px;*/
 }
@@ -99,7 +102,7 @@
 }
 
 .slideshow li figure img {
-    width: 100%;
+    width: 95%;
     margin: 0 auto;
     max-width: 100%;
     display: block;
@@ -175,8 +178,13 @@
 	width: 100%;
 	height: 100%;
 	background: #fff;
-	border: 10px solid #fff;
+	border: 7px solid #fff;
 	overflow: hidden;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bold;
+    line-height: 1;
+    vertical-align: center;
 }
 
 .slideshow figcaption {
@@ -192,7 +200,7 @@
 .slideshow nav span {
 	position: fixed;
 	z-index: 1000;
-	color: #59656c;
+	/*color: #59656c;*/
 	text-align: center;
 	padding: 3%;
 	cursor: pointer;
@@ -334,4 +342,5 @@ span.nav-close:before {
 
 .category{
     box-shadow: #777777 4px 7px 9px;
+    background-color: #ed8151;
 }
